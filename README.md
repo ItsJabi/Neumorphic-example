@@ -1,6 +1,6 @@
 # neomorphicexample
 
-A new Flutter project.
+A SignIn page made using neumorphic package.
 
 ## Getting Started
 
